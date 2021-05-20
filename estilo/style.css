@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "PT Sans";
+
+}
+.center{
+    max-width: 1280px;
+    padding: 0 10%;
+    margin:0 auto;
+}
+
+.w50{
+    width: 100%;
+    margin-right: 150px;
+}
+
+.right{
+    float:   right;
+}
+.clear{
+    clear: both;
+}
+.container{
+    max-width: auto;
+    font-family: serif;
+    color:whitesmoke;
+    margin-right: auto;
+}    
+header{
+    background-color: white;
+}
+nav.desktop ul{
+    list-style-type: none;
+}
+nav.desktop li{
+    font-size: 15px;
+    padding:0 15px;
+    text-transform: uppercase;
+    display: inline-block;
+}
+nav.desktop a{
+    color: white;
+    text-decoration: none;    
+}
+.container{
+   width: 100%;
+   height: 100px;
+   background-image: url("../imagens/campo.jpg");
+   background-size: cover;
+   margin-right: auto;
+  }
+.destaque{
+    width: 100%;
+    height: 450px;
+    background-image: url("../imagens/catraca.jpg");
+    background-size: cover;
+    color: white;
+    padding: 90px;
+    
+}
+.info{
+    width: 70%;
+    height: 300px;
+    background-image: url("../imagens/ceu.jpg");
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    color:black;
+    text-align: 50px;
+    padding: 65px;
+  }
+.info1{
+    max-width: 70%;
+    height: 350px;
+    background-image: url("../imagens/pneu.jpg");
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    text-align: 150px;
+    padding: 50px;
+}
+.monte{
+    max-width: 70%;
+    height: 350px;
+    background-image: url("../imagens/bikel.jpg");
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: 50px;
+    padding: 50px;
+}
+p{
+    opacity: 0.9;
+    font-size: 15px;
+    font-family: "Comic Sans MS"; 
+
+}
+.info2{
+    width: 100%;
+    height: 500x;
+    background-image: url("../imagens/laptop-336373_1920.jpg");
+    background-size: cover;
+    color: snow;
+    padding: 50px;
+}
+h1, h2, h3, h4{
+font-family: 'Comic Sans MS'; 
+}
+.end{
+    width: 100%;
+    height: 450px;
+    background-image: url("../imagens/planets-5923806_1920.jpg");
+    background-size: cover;
+    text-justify: none;
+    color: snow;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: 50px;
+    padding: 50px;
+}
+.notpad{
+    margin-left: auto;
+    margin-right: auto;
+}
+.SitePessoal{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: 50px;
+    padding: 50px;
+}
